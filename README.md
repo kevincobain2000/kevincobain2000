@@ -4,11 +4,11 @@
 
 
 - I am the developer of 
-  - [laravel-request-docs](https://github.com/rakutentech/laravel-request-docs)
-  - [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier)
-  - [jProcessing](https://github.com/kevincobain2000/jProcessing)
+  - [laravel-request-docs](https://github.com/rakutentech/laravel-request-docs) [![GitHub stars](https://img.shields.io/github/stars/rakutentech/laravel-request-docs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rakutentech/laravel-request-docs/)
+  - [gobrew](https://github.com/kevincobain2000/gobrew) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/gobrew.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/gobrew/)
+  - [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/sentiment_classifier.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/sentiment_classifier/)
+  - [jProcessing](https://github.com/kevincobain2000/jProcessing) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/jProcessing.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/jProcessing/)
   - [laravel-alert-notifications](https://github.com/kevincobain2000/laravel-alert-notifications)
-  - [gobrew](https://github.com/kevincobain2000/gobrew)
 - I write tech blogs on [medium](https://kevincobain2000-x.medium.com/)
 - [Google Scholar](http://scholar.google.com/citations?user=QCLnMHgAAAAJ&hl=en)
 
