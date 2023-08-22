@@ -5,7 +5,7 @@
 
 - I am the developer of 
   - [laravel-request-docs](https://github.com/rakutentech/laravel-request-docs) [![GitHub stars](https://img.shields.io/github/stars/rakutentech/laravel-request-docs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rakutentech/laravel-request-docs/)
-  - [code-coverage-dashboard](https://github.com/rakutentech/code-coverage-dashboard) [![GitHub stars](https://img.shields.io/github/stars/rakutentech/code-coverage-dashboard.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rakutentech/code-coverage-dashboard/)
+  - [action-coveritup](https://github.com/kevincobain2000/action-coveritup) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/action-coveritup.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/action-coveritup/)
   - [gobrew](https://github.com/kevincobain2000/gobrew) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/gobrew.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/gobrew/)
   - [laravel-erd](https://github.com/kevincobain2000/laravel-erd) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/laravel-erd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/laravel-erd/)
   - [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/sentiment_classifier.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/sentiment_classifier/)
