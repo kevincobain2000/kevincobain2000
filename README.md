@@ -6,6 +6,7 @@
 - I am the developer of 
   - [laravel-request-docs](https://github.com/rakutentech/laravel-request-docs) [![GitHub stars](https://img.shields.io/github/stars/rakutentech/laravel-request-docs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rakutentech/laravel-request-docs/)
   - [action-coveritup](https://github.com/kevincobain2000/action-coveritup) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/action-coveritup.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/action-coveritup/)
+  - [instachart](https://github.com/kevincobain2000/instachart) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/instachart.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/instachart/)
   - [gobrew](https://github.com/kevincobain2000/gobrew) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/gobrew.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/gobrew/)
   - [laravel-erd](https://github.com/kevincobain2000/laravel-erd) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/laravel-erd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/laravel-erd/)
   - [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/sentiment_classifier.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/sentiment_classifier/)
