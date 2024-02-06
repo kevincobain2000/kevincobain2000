@@ -5,16 +5,7 @@
 
 - I am the developer of 
   - [laravel-request-docs](https://github.com/rakutentech/laravel-request-docs) [![GitHub stars](https://img.shields.io/github/stars/rakutentech/laravel-request-docs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rakutentech/laravel-request-docs/)
-  - [action-coveritup](https://github.com/kevincobain2000/action-coveritup) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/action-coveritup.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/action-coveritup/)     <a href="https://www.producthunt.com/posts/coveritup?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-coveritup"
-        target="_blank"
-        ><img
-        src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=433114&theme=dark"
-        alt="CoverItUp - All&#0032;in&#0032;one&#0032;code&#0032;coverage&#0032;and&#0032;badges&#0032;tool&#0046; | Product Hunt"
-        style="width: 250px; height: 54px;"
-        width="250"
-        height="54"
-        /></a>
-
+  - [action-coveritup](https://github.com/kevincobain2000/action-coveritup) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/action-coveritup.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/action-coveritup/)
   - [instachart](https://github.com/kevincobain2000/instachart) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/instachart.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/instachart/)
   - [gobrew](https://github.com/kevincobain2000/gobrew) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/gobrew.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/gobrew/)
   - [laravel-erd](https://github.com/kevincobain2000/laravel-erd) [![GitHub stars](https://img.shields.io/github/stars/kevincobain2000/laravel-erd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevincobain2000/laravel-erd/)
